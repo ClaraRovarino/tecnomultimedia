@@ -3,7 +3,7 @@ Tecnología Multimedial
  Profesor: David Bedoian
  Comisión 3 / TP 5
  Integrantes: Elian Rodriguez  y Clara Rovarino
- Link al video: 
+ Link al video: https://youtu.be/8vBIUuLCSvo
  
  */
 
